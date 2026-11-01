@@ -136,4 +136,4 @@ if st.button("🚀 最適なDynamic Floorを算出する", type="primary"):
         """)
 
 else:
-    st.info("👈 左側のサイドバーで条件を調整し、[最適なDynamic Floorを算出する] ボタンを押してください。")
+    st.info("👈 左側のサイドバーで条件を調整し、[最適なDynamic Floorを算出する] ボタンを押してください。")git branch -M main
